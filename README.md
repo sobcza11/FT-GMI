@@ -1,4 +1,4 @@
-<h1><p align="center"><i>FT-GMi</i></h1>
+<h1><p align="center">FT-GMI</h1>
 <h4><p align="center">• Long-run, Financialization, & Crisis-phase Regimes • G20 • Structural Stability •</p></h4>
 
 <p align="center">
