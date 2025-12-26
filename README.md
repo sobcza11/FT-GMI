@@ -1,4 +1,4 @@
-<h1><p align="center">FT-GM<i>i</i></h1>
+<h1><p align="center"><i>FT-GMi</i></h1>
 <h4><p align="center">• Dividend Durability • Value Leadership • Macro-Regime Analysis •</p></h4>
 
 <p align="center">
