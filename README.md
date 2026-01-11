@@ -4,3 +4,5 @@
 <p align="center">
   <img src="https://github.com/sobcza11/FT-GMI/blob/main/_assets/dark_img.png" alt="FT-GMi Banner" width="90%">
 </p>
+
+<p align="center">*Work in Progress*</p>
